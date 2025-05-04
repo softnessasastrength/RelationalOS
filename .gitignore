@@ -1,0 +1,21 @@
+# RelationalOS .gitignore
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs and temp
+*.log
+*.tmp
+
+# Python cache
+__pycache__/
+*.pyc
+
+# System maps and previews
+/assets/system-map/*.png
+/assets/system-map/*.svg
+
+# VSCode & JetBrains
+.vscode/
+.idea/

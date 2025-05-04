@@ -1,0 +1,24 @@
+---
+name: 🐛 Emotional Bug Report
+about: Describe a recurring emotional glitch or survival loop
+title: "bug: [describe-it-here]"
+labels: ["bug", "emotional-kernel"]
+---
+
+## 🧠 Describe the Bug
+
+What’s the loop, pattern, or behavior that keeps repeating?
+
+## 💬 Example Triggers
+
+When does it usually show up?
+
+## 🔁 Temporary Fixes You’ve Tried
+
+What have you done to manage or interrupt the bug?
+
+## 🌱 What Would Healing Look Like?
+
+Even if you’re not sure—describe your best guess.
+
+> This is emotional open-source. Let’s patch it together.
