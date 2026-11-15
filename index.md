@@ -12,9 +12,9 @@ Here you’ll find:
 
 ## 🧭 Start Here
 
-- [`index.md`](../index.md) – System map
-- [`README.md`](../README.md) – Root philosophy
-- [`CONTRIBUTING.md`](../CONTRIBUTING.md) – How to contribute
+- [`index.md`](index.md) – System map
+- [`README.md`](README.md) – Root philosophy
+- [`CONTRIBUTING.md`](CONTRIBUTING.md) – How to contribute
 
 ---
 
